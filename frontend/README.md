@@ -6,8 +6,7 @@ Jobs are created, automatically progress through states, and the dashboard updat
 
 ## 📸 Preview
 
-![Dashboard Preview](frontend/preview.png)
----
+![Dashboard Preview](preview.png)
 
 ## 🚀 How to Run Locally
 
