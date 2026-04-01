@@ -16,7 +16,7 @@
 
   onMount(() => {
     fetchJobs();
-    setInterval(fetchJobs, 3000);
+    setInterval(fetchJobs, 5000);
   });
 
   $: filtered = filter === 'all' ? jobs : jobs.filter(j => j.status === filter);
